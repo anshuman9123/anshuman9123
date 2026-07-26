@@ -1,5 +1,3 @@
-<img width="1500" height="500" alt="anshuman-kumar-banner (1)" src="https://github.com/user-attachments/assets/6c28ee93-42b4-4fbe-a1d7-95265c58beb1" />
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6c28ee93-42b4-4fbe-a1d7-95265c58beb1" width="100%" alt="Banner"/>
 </p>
