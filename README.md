@@ -1,3 +1,4 @@
+<img width="1500" height="500" alt="anshuman-kumar-banner" src="https://github.com/user-attachments/assets/2440d5ed-88b4-4514-b53c-51451b21a90d" />
 <h1 align="center">Hi 👋, I'm Anshuman Kumar</h1>
 
 <h3 align="center">
