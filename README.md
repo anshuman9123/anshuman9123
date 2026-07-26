@@ -9,22 +9,21 @@ Backend Developer • Python • FastAPI • Generative AI
 </h3>
 
 <p align="center">
-Passionate about building scalable backend systems and AI-powered applications.
+Building scalable backend systems and AI-powered applications.
 </p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/1anshumankumar/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <a href="https://www.linkedin.com/in/1anshumankumar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="mailto:anshuman.oist@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+  <a href="mailto:anshuman.oist@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="https://leetcode.com/u/KumarAnshuman/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
+  <a href="https://leetcode.com/u/KumarAnshuman/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 ---
@@ -32,19 +31,17 @@ Passionate about building scalable backend systems and AI-powered applications.
 # 🚀 About Me
 
 - 🎓 B.Tech in Information Technology (2026)
-- 💻 Backend Developer specializing in Python & FastAPI
-- 🤖 Building AI applications using Generative AI, RAG and AI Agents
-- 📚 Currently learning Docker, PostgreSQL, and System Design
-- 🎯 Looking for Backend Developer, Python Developer and AI Engineer opportunities
+- 💻 Passionate about Backend Development using Python & FastAPI
+- 🤖 Building AI-powered applications with Generative AI, RAG and AI Agents
+- 📚 Currently learning Docker, PostgreSQL, Redis and System Design
+- 🎯 Actively seeking Backend Developer, Python Developer and AI Engineer opportunities
 
 ---
 
 # 🛠 Tech Stack
 
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,django,postgres,mysql,mongodb,docker,git,github,linux,react,vscode"/>
-
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,fastapi,django,postgres,mysql,mongodb,redis,docker,git,github,linux,react,vscode" />
 </p>
 
 ---
@@ -53,9 +50,9 @@ Passionate about building scalable backend systems and AI-powered applications.
 
 ## 🤖 AI Job Application Agent
 
-AI-powered platform that tailors resumes, generates cover letters and improves ATS scores using LLMs.
+AI-powered platform that tailors resumes, generates cover letters and improves ATS scores using Large Language Models (LLMs).
 
-**Tech**
+**Tech Stack**
 
 FastAPI • React • LangChain • Gemini • PostgreSQL
 
@@ -63,26 +60,26 @@ FastAPI • React • LangChain • Gemini • PostgreSQL
 
 ## 📚 KnowBase AI
 
-Enterprise RAG application that allows users to chat with documents using vector search and LLMs.
+Enterprise Retrieval-Augmented Generation (RAG) application that enables users to chat with documents using vector search and LLMs.
 
-**Tech**
+**Tech Stack**
 
-FastAPI • LangChain • Qdrant • Open AI
+FastAPI • LangChain • Qdrant • OpenAI
 
 ---
 
 ## 💻 DSA Grind
 
-A growing collection of LeetCode and GeeksforGeeks solutions in C++ and Python organized by topic.
+A growing collection of LeetCode and GeeksforGeeks solutions in C++ and Python, organised by topic.
 
 ---
 
 # 🎯 Current Focus
 
-- Backend Engineering
+- Backend Development
 - FastAPI
 - Generative AI
-- RAG
+- Retrieval-Augmented Generation (RAG)
 - AI Agents
 - Django
 - System Design
@@ -93,7 +90,7 @@ A growing collection of LeetCode and GeeksforGeeks solutions in C++ and Python o
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=anshuman9123&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anshuman9123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman9123&layout=compact&theme=tokyonight&hide_border=true"/>
 
@@ -101,7 +98,7 @@ A growing collection of LeetCode and GeeksforGeeks solutions in C++ and Python o
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshuman9123&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=anshuman9123&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -109,8 +106,11 @@ A growing collection of LeetCode and GeeksforGeeks solutions in C++ and Python o
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn : https://www.linkedin.com/in/1anshumankumar/
+💼 **LinkedIn**  
+https://www.linkedin.com/in/1anshumankumar/
 
-- 🧩 LeetCode : https://leetcode.com/u/KumarAnshuman/
+🧩 **LeetCode**  
+https://leetcode.com/u/KumarAnshuman/
 
-- 📧 Email : anshuman.oist@gmail.com
+📧 **Email**  
+anshuman.oist@gmail.com
