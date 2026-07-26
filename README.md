@@ -91,7 +91,6 @@ Collection of LeetCode and GeeksforGeeks solutions in Python and C++ organised b
 - Build production-ready AI applications
 - Solve 300+ DSA problems
 - Contribute to Open Source
-- Start my career as a Backend Engineer
 
 ---
 
