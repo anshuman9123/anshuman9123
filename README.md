@@ -66,7 +66,7 @@ Enterprise Retrieval-Augmented Generation system for chatting with PDFs using ve
 
 **Tech Used**
 
-FastAPI • LangChain • Qdrant • Gemini
+FastAPI • LangChain • Qdrant • Open AI
 
 ---
 
